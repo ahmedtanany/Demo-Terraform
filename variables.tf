@@ -12,7 +12,7 @@ variable "vcn_cidr" {
 
 variable "vcn_dns_label" {
   description = "VCN DNS LABEL"
-  default     = "tryvcn"
+  default     = "testvcn"
 }
 
 variable "dns_label" {
